@@ -1,0 +1,15 @@
+C:\Users\Loadingim\Documents\CodingTest\Day_5\bin\Debug\net8.0\Day_5.exe
+C:\Users\Loadingim\Documents\CodingTest\Day_5\bin\Debug\net8.0\Day_5.deps.json
+C:\Users\Loadingim\Documents\CodingTest\Day_5\bin\Debug\net8.0\Day_5.runtimeconfig.json
+C:\Users\Loadingim\Documents\CodingTest\Day_5\bin\Debug\net8.0\Day_5.dll
+C:\Users\Loadingim\Documents\CodingTest\Day_5\bin\Debug\net8.0\Day_5.pdb
+C:\Users\Loadingim\Documents\CodingTest\Day_5\obj\Debug\net8.0\Day_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loadingim\Documents\CodingTest\Day_5\obj\Debug\net8.0\Day_5.AssemblyInfoInputs.cache
+C:\Users\Loadingim\Documents\CodingTest\Day_5\obj\Debug\net8.0\Day_5.AssemblyInfo.cs
+C:\Users\Loadingim\Documents\CodingTest\Day_5\obj\Debug\net8.0\Day_5.csproj.CoreCompileInputs.cache
+C:\Users\Loadingim\Documents\CodingTest\Day_5\obj\Debug\net8.0\Day_5.sourcelink.json
+C:\Users\Loadingim\Documents\CodingTest\Day_5\obj\Debug\net8.0\Day_5.dll
+C:\Users\Loadingim\Documents\CodingTest\Day_5\obj\Debug\net8.0\refint\Day_5.dll
+C:\Users\Loadingim\Documents\CodingTest\Day_5\obj\Debug\net8.0\Day_5.pdb
+C:\Users\Loadingim\Documents\CodingTest\Day_5\obj\Debug\net8.0\Day_5.genruntimeconfig.cache
+C:\Users\Loadingim\Documents\CodingTest\Day_5\obj\Debug\net8.0\ref\Day_5.dll
